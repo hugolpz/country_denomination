@@ -38,7 +38,7 @@ function retrieve_country_info(param) {
  var dt = JSON.parse(fs.readFileSync("country_denomination.json")).data;
  // loop through dataset and retrieve data for given field match
  for (let i in dt) {
-  if (dt[i][param.with] == set.val) {
+  if (dt[i][param.with] == param.val) {
    return dt[i][param.what];
  }
  return null; // no match was found in the dataset
