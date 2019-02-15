@@ -45,6 +45,6 @@ function retrieve_country_info(param) {
 }
 
 // let's try our function looking for the french phone country code from its ISO 3166-1 alpha-3 code:
-let test = retrieve_contry_info("cc","alpha3","FRA");
+let test = retrieve_contry_info({ what:"cc", with:"alpha3", val:"FRA"});
 console.log(test); // outputs "+33", phone dial for France, YAY!
 ```
