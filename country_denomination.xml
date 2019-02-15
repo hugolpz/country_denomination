@@ -1,0 +1,2158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <update>02/15/2019</update>
+  <data>
+    <el>
+      <alpha2>AF</alpha2>
+      <alpha3>AFG</alpha3>
+      <cc>+93</cc>
+      <cctld>004</cctld>
+      <full>The Islamic Republic of Afghanistan</full>
+      <name>Afghanistan</name>
+    </el>
+    <el>
+      <alpha2>AX</alpha2>
+      <alpha3>ALA</alpha3>
+      <cc>+358</cc>
+      <cctld>248</cctld>
+      <full>Åland</full>
+      <name>Åland Islands</name>
+    </el>
+    <el>
+      <alpha2>AL</alpha2>
+      <alpha3>ALB</alpha3>
+      <cc>+355</cc>
+      <cctld>008</cctld>
+      <full>The Republic of Albania</full>
+      <name>Albania</name>
+    </el>
+    <el>
+      <alpha2>DZ</alpha2>
+      <alpha3>DZA</alpha3>
+      <cc>+213</cc>
+      <cctld>012</cctld>
+      <full>The People's Democratic Republic of Algeria</full>
+      <name>Algeria</name>
+    </el>
+    <el>
+      <alpha2>AS</alpha2>
+      <alpha3>ASM</alpha3>
+      <cc>+1</cc>
+      <cctld>016</cctld>
+      <full>The Territory of American Samoa</full>
+      <name>American Samoa</name>
+    </el>
+    <el>
+      <alpha2>AD</alpha2>
+      <alpha3>AND</alpha3>
+      <cc>+376</cc>
+      <cctld>020</cctld>
+      <full>The Principality of Andorra</full>
+      <name>Andorra</name>
+    </el>
+    <el>
+      <alpha2>AO</alpha2>
+      <alpha3>AGO</alpha3>
+      <cc>+244</cc>
+      <cctld>024</cctld>
+      <full>The Republic of Angola</full>
+      <name>Angola</name>
+    </el>
+    <el>
+      <alpha2>AI</alpha2>
+      <alpha3>AIA</alpha3>
+      <cc>+1</cc>
+      <cctld>660</cctld>
+      <full>Anguilla</full>
+      <name>Anguilla</name>
+    </el>
+    <el>
+      <alpha2>AQ</alpha2>
+      <alpha3>ATA</alpha3>
+      <cc>+672</cc>
+      <cctld>010</cctld>
+      <full>All land and ice shelves south of the 60th parallel south</full>
+      <name>Antarctica</name>
+    </el>
+    <el>
+      <alpha2>AG</alpha2>
+      <alpha3>ATG</alpha3>
+      <cc>+1</cc>
+      <cctld>028</cctld>
+      <full>Antigua and Barbuda</full>
+      <name>Antigua and Barbuda</name>
+    </el>
+    <el>
+      <alpha2>AR</alpha2>
+      <alpha3>ARG</alpha3>
+      <cc>+54</cc>
+      <cctld>032</cctld>
+      <full>The Argentine Republic</full>
+      <name>Argentina</name>
+    </el>
+    <el>
+      <alpha2>AM</alpha2>
+      <alpha3>ARM</alpha3>
+      <cc>+374</cc>
+      <cctld>051</cctld>
+      <full>The Republic of Armenia</full>
+      <name>Armenia</name>
+    </el>
+    <el>
+      <alpha2>AW</alpha2>
+      <alpha3>ABW</alpha3>
+      <cc>+297</cc>
+      <cctld>533</cctld>
+      <full>Aruba</full>
+      <name>Aruba</name>
+    </el>
+    <el>
+      <alpha2>AU</alpha2>
+      <alpha3>AUS</alpha3>
+      <cc>+61</cc>
+      <cctld>036</cctld>
+      <full>The Commonwealth of Australia</full>
+      <name>Ashmore and Cartier Islands</name>
+    </el>
+    <el>
+      <alpha2>AU</alpha2>
+      <alpha3>AUS</alpha3>
+      <cc>+61</cc>
+      <cctld>036</cctld>
+      <full>The Commonwealth of Australia</full>
+      <name>Australia</name>
+    </el>
+    <el>
+      <alpha2>AT</alpha2>
+      <alpha3>AUT</alpha3>
+      <cc>+43</cc>
+      <cctld>040</cctld>
+      <full>The Republic of Austria</full>
+      <name>Austria</name>
+    </el>
+    <el>
+      <alpha2>AZ</alpha2>
+      <alpha3>AZE</alpha3>
+      <cc>+994</cc>
+      <cctld>031</cctld>
+      <full>The Republic of Azerbaijan</full>
+      <name>Azerbaijan</name>
+    </el>
+    <el>
+      <alpha2>BS</alpha2>
+      <alpha3>BHS</alpha3>
+      <cc>+1</cc>
+      <cctld>044</cctld>
+      <full>The Commonwealth of The Bahamas</full>
+      <name>Bahamas</name>
+    </el>
+    <el>
+      <alpha2>BH</alpha2>
+      <alpha3>BHR</alpha3>
+      <cc>+973</cc>
+      <cctld>048</cctld>
+      <full>The Kingdom of Bahrain</full>
+      <name>Bahrain</name>
+    </el>
+    <el>
+      <alpha2>BD</alpha2>
+      <alpha3>BGD</alpha3>
+      <cc>+880</cc>
+      <cctld>050</cctld>
+      <full>The People's Republic of Bangladesh</full>
+      <name>Bangladesh</name>
+    </el>
+    <el>
+      <alpha2>BB</alpha2>
+      <alpha3>BRB</alpha3>
+      <cc>+1</cc>
+      <cctld>052</cctld>
+      <full>Barbados</full>
+      <name>Barbados</name>
+    </el>
+    <el>
+      <alpha2>BY</alpha2>
+      <alpha3>BLR</alpha3>
+      <cc>+375</cc>
+      <cctld>112</cctld>
+      <full>The Republic of Belarus</full>
+      <name>Belarus</name>
+    </el>
+    <el>
+      <alpha2>BE</alpha2>
+      <alpha3>BEL</alpha3>
+      <cc>+32</cc>
+      <cctld>056</cctld>
+      <full>The Kingdom of Belgium</full>
+      <name>Belgium</name>
+    </el>
+    <el>
+      <alpha2>BZ</alpha2>
+      <alpha3>BLZ</alpha3>
+      <cc>+501</cc>
+      <cctld>084</cctld>
+      <full>Belize</full>
+      <name>Belize</name>
+    </el>
+    <el>
+      <alpha2>BJ</alpha2>
+      <alpha3>BEN</alpha3>
+      <cc>+229</cc>
+      <cctld>204</cctld>
+      <full>The Republic of Benin</full>
+      <name>Benin</name>
+    </el>
+    <el>
+      <alpha2>BM</alpha2>
+      <alpha3>BMU</alpha3>
+      <cc>+1</cc>
+      <cctld>060</cctld>
+      <full>Bermuda</full>
+      <name>Bermuda</name>
+    </el>
+    <el>
+      <alpha2>BT</alpha2>
+      <alpha3>BTN</alpha3>
+      <cc>+975</cc>
+      <cctld>064</cctld>
+      <full>The Kingdom of Bhutan</full>
+      <name>Bhutan</name>
+    </el>
+    <el>
+      <alpha2>BO</alpha2>
+      <alpha3>BOL</alpha3>
+      <cc>+591</cc>
+      <cctld>068</cctld>
+      <full>The Plurinational State of Bolivia</full>
+      <name>Bolivia</name>
+    </el>
+    <el>
+      <alpha2>BQ</alpha2>
+      <alpha3>BES</alpha3>
+      <cc>+599</cc>
+      <cctld>535</cctld>
+      <full>Bonaire, Sint Eustatius and Saba</full>
+      <name>Bonaire</name>
+    </el>
+    <el>
+      <alpha2>BA</alpha2>
+      <alpha3>BIH</alpha3>
+      <cc>+387</cc>
+      <cctld>070</cctld>
+      <full>Bosnia and Herzegovina</full>
+      <name>Bosnia and Herzegovina</name>
+    </el>
+    <el>
+      <alpha2>BW</alpha2>
+      <alpha3>BWA</alpha3>
+      <cc>+267</cc>
+      <cctld>072</cctld>
+      <full>The Republic of Botswana</full>
+      <name>Botswana</name>
+    </el>
+    <el>
+      <alpha2>BV</alpha2>
+      <alpha3>BVT</alpha3>
+      <cc>+47</cc>
+      <cctld>074</cctld>
+      <full>Bouvet Island</full>
+      <name>Bouvet Island</name>
+    </el>
+    <el>
+      <alpha2>BR</alpha2>
+      <alpha3>BRA</alpha3>
+      <cc>+55</cc>
+      <cctld>076</cctld>
+      <full>The Federative Republic of Brazil</full>
+      <name>Brazil</name>
+    </el>
+    <el>
+      <alpha2>IO</alpha2>
+      <alpha3>IOT</alpha3>
+      <cc>+246</cc>
+      <cctld>086</cctld>
+      <full>The British Indian Ocean Territory</full>
+      <name>British Indian Ocean Territory</name>
+    </el>
+    <el>
+      <alpha2>VG</alpha2>
+      <alpha3>VGB</alpha3>
+      <cc>+1</cc>
+      <cctld>092</cctld>
+      <full>The Virgin Islands</full>
+      <name>British Virgin Islands</name>
+    </el>
+    <el>
+      <alpha2>BN</alpha2>
+      <alpha3>BRN</alpha3>
+      <cc>+673</cc>
+      <cctld>096</cctld>
+      <full>The Nation of Brunei, the Abode of Peace</full>
+      <name>Brunei</name>
+    </el>
+    <el>
+      <alpha2>BG</alpha2>
+      <alpha3>BGR</alpha3>
+      <cc>+359</cc>
+      <cctld>100</cctld>
+      <full>The Republic of Bulgaria</full>
+      <name>Bulgaria</name>
+    </el>
+    <el>
+      <alpha2>BF</alpha2>
+      <alpha3>BFA</alpha3>
+      <cc>+226</cc>
+      <cctld>854</cctld>
+      <full>Burkina Faso</full>
+      <name>Burkina Faso</name>
+    </el>
+    <el>
+      <alpha2>VG</alpha2>
+      <alpha3>VGB</alpha3>
+      <cc>+95</cc>
+      <cctld>092</cctld>
+      <full>The Republic of the Union of Myanmar</full>
+      <name>Burma</name>
+    </el>
+    <el>
+      <alpha2>BI</alpha2>
+      <alpha3>BDI</alpha3>
+      <cc>+257</cc>
+      <cctld>108</cctld>
+      <full>The Republic of Burundi</full>
+      <name>Burundi</name>
+    </el>
+    <el>
+      <alpha2>KH</alpha2>
+      <alpha3>KHM</alpha3>
+      <cc>+855</cc>
+      <cctld>116</cctld>
+      <full>The Kingdom of Cambodia</full>
+      <name>Cambodia</name>
+    </el>
+    <el>
+      <alpha2>CM</alpha2>
+      <alpha3>CMR</alpha3>
+      <cc>+237</cc>
+      <cctld>120</cctld>
+      <full>The Republic of Cameroon</full>
+      <name>Cameroon</name>
+    </el>
+    <el>
+      <alpha2>CA</alpha2>
+      <alpha3>CAN</alpha3>
+      <cc>+1</cc>
+      <cctld>124</cctld>
+      <full>Canada</full>
+      <name>Canada</name>
+    </el>
+    <el>
+      <alpha2>CV</alpha2>
+      <alpha3>CPV</alpha3>
+      <cc>+238</cc>
+      <cctld>132</cctld>
+      <full>The Republic of Cabo Verde</full>
+      <name>Cape Verde</name>
+    </el>
+    <el>
+      <alpha2>CV</alpha2>
+      <alpha3>CPV</alpha3>
+      <cc>+238</cc>
+      <cctld>132</cctld>
+      <full>The Republic of Cabo Verde</full>
+      <name>Cape Verde</name>
+    </el>
+    <el>
+      <alpha2>BQ</alpha2>
+      <alpha3>BES</alpha3>
+      <cc>+599</cc>
+      <cctld>535</cctld>
+      <full>Bonaire, Sint Eustatius and Saba</full>
+      <name>Caribbean Netherlands</name>
+    </el>
+    <el>
+      <alpha2>KY</alpha2>
+      <alpha3>CYM</alpha3>
+      <cc>+1</cc>
+      <cctld>136</cctld>
+      <full>The Cayman Islands</full>
+      <name>Cayman Islands</name>
+    </el>
+    <el>
+      <alpha2>CF</alpha2>
+      <alpha3>CAF</alpha3>
+      <cc>+236</cc>
+      <cctld>140</cctld>
+      <full>The Central African Republic</full>
+      <name>Central African Republic</name>
+    </el>
+    <el>
+      <alpha2>TD</alpha2>
+      <alpha3>TCD</alpha3>
+      <cc>+235</cc>
+      <cctld>148</cctld>
+      <full>The Republic of Chad</full>
+      <name>Chad</name>
+    </el>
+    <el>
+      <alpha2>CL</alpha2>
+      <alpha3>CHL</alpha3>
+      <cc>+56</cc>
+      <cctld>152</cctld>
+      <full>The Republic of Chile</full>
+      <name>Chile</name>
+    </el>
+    <el>
+      <alpha2>CN</alpha2>
+      <alpha3>CHN</alpha3>
+      <cc>+86</cc>
+      <cctld>156</cctld>
+      <full>The People's Republic of China</full>
+      <name>China</name>
+    </el>
+    <el>
+      <alpha2>CX</alpha2>
+      <alpha3>CXR</alpha3>
+      <cc>+61</cc>
+      <cctld>162</cctld>
+      <full>The Territory of Christmas Island</full>
+      <name>Christmas Island</name>
+    </el>
+    <el>
+      <alpha2>FR</alpha2>
+      <alpha3>FRA</alpha3>
+      <cc>+33</cc>
+      <cctld>250</cctld>
+      <full>The French Republic</full>
+      <name>Clipperton Island</name>
+    </el>
+    <el>
+      <alpha2>CC</alpha2>
+      <alpha3>CCK</alpha3>
+      <cc>+61</cc>
+      <cctld>166</cctld>
+      <full>The Territory of Cocos (Keeling) Islands</full>
+      <name>Cocos Islands</name>
+    </el>
+    <el>
+      <alpha2>CO</alpha2>
+      <alpha3>COL</alpha3>
+      <cc>+57</cc>
+      <cctld>170</cctld>
+      <full>The Republic of Colombia</full>
+      <name>Colombia</name>
+    </el>
+    <el>
+      <alpha2>KM</alpha2>
+      <alpha3>COM</alpha3>
+      <cc>+269</cc>
+      <cctld>174</cctld>
+      <full>The Union of the Comoros</full>
+      <name>Comoros</name>
+    </el>
+    <el>
+      <alpha2>CG</alpha2>
+      <alpha3>COG</alpha3>
+      <cc>+242</cc>
+      <cctld>178</cctld>
+      <full>The Republic of the Congo</full>
+      <name>Congo</name>
+    </el>
+    <el>
+      <alpha2>CK</alpha2>
+      <alpha3>COK</alpha3>
+      <cc>+682</cc>
+      <cctld>184</cctld>
+      <full>The Cook Islands</full>
+      <name>Cook Islands</name>
+    </el>
+    <el>
+      <alpha2>AU</alpha2>
+      <alpha3>AUS</alpha3>
+      <cc>+61</cc>
+      <cctld>036</cctld>
+      <full>The Commonwealth of Australia</full>
+      <name>Coral Sea Islands</name>
+    </el>
+    <el>
+      <alpha2>CR</alpha2>
+      <alpha3>CRI</alpha3>
+      <cc>+506</cc>
+      <cctld>188</cctld>
+      <full>The Republic of Costa Rica</full>
+      <name>Costa Rica</name>
+    </el>
+    <el>
+      <alpha2>HR</alpha2>
+      <alpha3>HRV</alpha3>
+      <cc>+385</cc>
+      <cctld>191</cctld>
+      <full>The Republic of Croatia</full>
+      <name>Croatia</name>
+    </el>
+    <el>
+      <alpha2>CU</alpha2>
+      <alpha3>CUB</alpha3>
+      <cc>+53</cc>
+      <cctld>192</cctld>
+      <full>The Republic of Cuba</full>
+      <name>Cuba</name>
+    </el>
+    <el>
+      <alpha2>CW</alpha2>
+      <alpha3>CUW</alpha3>
+      <cc>+599</cc>
+      <cctld>531</cctld>
+      <full>The Country of Curaçao</full>
+      <name>Curaçao</name>
+    </el>
+    <el>
+      <alpha2>CY</alpha2>
+      <alpha3>CYP</alpha3>
+      <cc>+357</cc>
+      <cctld>196</cctld>
+      <full>The Republic of Cyprus</full>
+      <name>Cyprus</name>
+    </el>
+    <el>
+      <alpha2>CZ</alpha2>
+      <alpha3>CZE</alpha3>
+      <cc>+420</cc>
+      <cctld>203</cctld>
+      <full>The Czech Republic</full>
+      <name>Czech Republic</name>
+    </el>
+    <el>
+      <alpha2>CD</alpha2>
+      <alpha3>COD</alpha3>
+      <cc>+243</cc>
+      <cctld>180</cctld>
+      <full>The Democratic Republic of the Congo</full>
+      <name>Democratic Republic of the Congo</name>
+    </el>
+    <el>
+      <alpha2>DK</alpha2>
+      <alpha3>DNK</alpha3>
+      <cc>+45</cc>
+      <cctld>208</cctld>
+      <full>The Kingdom of Denmark</full>
+      <name>Denmark</name>
+    </el>
+    <el>
+      <alpha2>DJ</alpha2>
+      <alpha3>DJI</alpha3>
+      <cc>+253</cc>
+      <cctld>262</cctld>
+      <full>The Republic of Djibouti</full>
+      <name>Djibouti</name>
+    </el>
+    <el>
+      <alpha2>DM</alpha2>
+      <alpha3>DMA</alpha3>
+      <cc>+1</cc>
+      <cctld>212</cctld>
+      <full>The Commonwealth of Dominica</full>
+      <name>Dominica</name>
+    </el>
+    <el>
+      <alpha2>DO</alpha2>
+      <alpha3>DOM</alpha3>
+      <cc>+1</cc>
+      <cctld>214</cctld>
+      <full>The Dominican Republic</full>
+      <name>Dominican Republic</name>
+    </el>
+    <el>
+      <alpha2>TL</alpha2>
+      <alpha3>TLS</alpha3>
+      <cc>+670</cc>
+      <cctld>626</cctld>
+      <full>The Democratic Republic of Timor-Leste</full>
+      <name>East Timor</name>
+    </el>
+    <el>
+      <alpha2>EC</alpha2>
+      <alpha3>ECU</alpha3>
+      <cc>+593</cc>
+      <cctld>218</cctld>
+      <full>The Republic of Ecuador</full>
+      <name>Ecuador</name>
+    </el>
+    <el>
+      <alpha2>EG</alpha2>
+      <alpha3>EGY</alpha3>
+      <cc>+20</cc>
+      <cctld>818</cctld>
+      <full>The Arab Republic of Egypt</full>
+      <name>Egypt</name>
+    </el>
+    <el>
+      <alpha2>SV</alpha2>
+      <alpha3>SLV</alpha3>
+      <cc>+503</cc>
+      <cctld>222</cctld>
+      <full>The Republic of El Salvador</full>
+      <name>El Salvador</name>
+    </el>
+    <el>
+      <alpha2>GB</alpha2>
+      <alpha3>GBR</alpha3>
+      <cc>+44</cc>
+      <cctld>826</cctld>
+      <full>The United Kingdom of Great Britain and Northern Ireland</full>
+      <name>England</name>
+    </el>
+    <el>
+      <alpha2>GQ</alpha2>
+      <alpha3>GNQ</alpha3>
+      <cc>+240</cc>
+      <cctld>226</cctld>
+      <full>The Republic of Equatorial Guinea</full>
+      <name>Equatorial Guinea</name>
+    </el>
+    <el>
+      <alpha2>ER</alpha2>
+      <alpha3>ERI</alpha3>
+      <cc>+291</cc>
+      <cctld>232</cctld>
+      <full>The State of Eritrea</full>
+      <name>Eritrea</name>
+    </el>
+    <el>
+      <alpha2>EE</alpha2>
+      <alpha3>EST</alpha3>
+      <cc>+372</cc>
+      <cctld>233</cctld>
+      <full>The Republic of Estonia</full>
+      <name>Estonia</name>
+    </el>
+    <el>
+      <alpha2>ET</alpha2>
+      <alpha3>ETH</alpha3>
+      <cc>+251</cc>
+      <cctld>231</cctld>
+      <full>The Federal Democratic Republic of Ethiopia</full>
+      <name>Ethiopia</name>
+    </el>
+    <el>
+      <alpha2>FK</alpha2>
+      <alpha3>FLK</alpha3>
+      <cc>+500</cc>
+      <cctld>238</cctld>
+      <full>The Falkland Islands</full>
+      <name>Falkland Islands</name>
+    </el>
+    <el>
+      <alpha2>FO</alpha2>
+      <alpha3>FRO</alpha3>
+      <cc>+298</cc>
+      <cctld>234</cctld>
+      <full>The Faroe Islands</full>
+      <name>Faroe Islands</name>
+    </el>
+    <el>
+      <alpha2>FJ</alpha2>
+      <alpha3>FJI</alpha3>
+      <cc>+679</cc>
+      <cctld>242</cctld>
+      <full>The Republic of Fiji</full>
+      <name>Fiji</name>
+    </el>
+    <el>
+      <alpha2>FI</alpha2>
+      <alpha3>FIN</alpha3>
+      <cc>+358</cc>
+      <cctld>246</cctld>
+      <full>The Republic of Finland</full>
+      <name>Finland</name>
+    </el>
+    <el>
+      <alpha2>FR</alpha2>
+      <alpha3>FRA</alpha3>
+      <cc>+33</cc>
+      <cctld>250</cctld>
+      <full>The French Republic</full>
+      <name>France</name>
+    </el>
+    <el>
+      <alpha2>GF</alpha2>
+      <alpha3>GUF</alpha3>
+      <cc>+594</cc>
+      <cctld>254</cctld>
+      <full>Guyane</full>
+      <name>French Guiana</name>
+    </el>
+    <el>
+      <alpha2>PF</alpha2>
+      <alpha3>PYF</alpha3>
+      <cc>+689</cc>
+      <cctld>258</cctld>
+      <full>French Polynesia</full>
+      <name>French Polynesia</name>
+    </el>
+    <el>
+      <alpha2>TF</alpha2>
+      <alpha3>ATF</alpha3>
+      <cc>+672</cc>
+      <cctld>260</cctld>
+      <full>The French Southern and Antarctic Lands</full>
+      <name>French Southern Territories</name>
+    </el>
+    <el>
+      <alpha2>GA</alpha2>
+      <alpha3>GAB</alpha3>
+      <cc>+241</cc>
+      <cctld>266</cctld>
+      <full>The Gabonese Republic</full>
+      <name>Gabon</name>
+    </el>
+    <el>
+      <alpha2>GM</alpha2>
+      <alpha3>GMB</alpha3>
+      <cc>+220</cc>
+      <cctld>270</cctld>
+      <full>The Republic of The Gambia</full>
+      <name>Gambia</name>
+    </el>
+    <el>
+      <alpha2>GE</alpha2>
+      <alpha3>GEO</alpha3>
+      <cc>+995</cc>
+      <cctld>268</cctld>
+      <full>Georgia</full>
+      <name>Georgia</name>
+    </el>
+    <el>
+      <alpha2>DE</alpha2>
+      <alpha3>DEU</alpha3>
+      <cc>+49</cc>
+      <cctld>276</cctld>
+      <full>The Federal Republic of Germany</full>
+      <name>Germany</name>
+    </el>
+    <el>
+      <alpha2>GH</alpha2>
+      <alpha3>GHA</alpha3>
+      <cc>+233</cc>
+      <cctld>288</cctld>
+      <full>The Republic of Ghana</full>
+      <name>Ghana</name>
+    </el>
+    <el>
+      <alpha2>GI</alpha2>
+      <alpha3>GIB</alpha3>
+      <cc>+350</cc>
+      <cctld>292</cctld>
+      <full>Gibraltar</full>
+      <name>Gibraltar</name>
+    </el>
+    <el>
+      <alpha2>GB</alpha2>
+      <alpha3>GBR</alpha3>
+      <cc>+44</cc>
+      <cctld>826</cctld>
+      <full>The United Kingdom of Great Britain and Northern Ireland</full>
+      <name>Great Britain</name>
+    </el>
+    <el>
+      <alpha2>GR</alpha2>
+      <alpha3>GRC</alpha3>
+      <cc>+30</cc>
+      <cctld>300</cctld>
+      <full>The Hellenic Republic</full>
+      <name>Greece</name>
+    </el>
+    <el>
+      <alpha2>GL</alpha2>
+      <alpha3>GRL</alpha3>
+      <cc>+299</cc>
+      <cctld>304</cctld>
+      <full>Kalaallit Nunaat</full>
+      <name>Greenland</name>
+    </el>
+    <el>
+      <alpha2>GD</alpha2>
+      <alpha3>GRD</alpha3>
+      <cc>+1</cc>
+      <cctld>308</cctld>
+      <full>Grenada</full>
+      <name>Grenada</name>
+    </el>
+    <el>
+      <alpha2>GP</alpha2>
+      <alpha3>GLP</alpha3>
+      <cc>+590</cc>
+      <cctld>312</cctld>
+      <full>Guadeloupe</full>
+      <name>Guadeloupe</name>
+    </el>
+    <el>
+      <alpha2>GU</alpha2>
+      <alpha3>GUM</alpha3>
+      <cc>+1</cc>
+      <cctld>316</cctld>
+      <full>The Territory of Guam</full>
+      <name>Guam</name>
+    </el>
+    <el>
+      <alpha2>GT</alpha2>
+      <alpha3>GTM</alpha3>
+      <cc>+502</cc>
+      <cctld>320</cctld>
+      <full>The Republic of Guatemala</full>
+      <name>Guatemala</name>
+    </el>
+    <el>
+      <alpha2>GG</alpha2>
+      <alpha3>GGY</alpha3>
+      <cc>+44</cc>
+      <cctld>831</cctld>
+      <full>The Bailiwick of Guernsey</full>
+      <name>Guernsey</name>
+    </el>
+    <el>
+      <alpha2>GN</alpha2>
+      <alpha3>GIN</alpha3>
+      <cc>+224</cc>
+      <cctld>324</cctld>
+      <full>The Republic of Guinea</full>
+      <name>Guinea</name>
+    </el>
+    <el>
+      <alpha2>GW</alpha2>
+      <alpha3>GNB</alpha3>
+      <cc>+245</cc>
+      <cctld>624</cctld>
+      <full>The Republic of Guinea-Bissau</full>
+      <name>Guinea-Bissau</name>
+    </el>
+    <el>
+      <alpha2>GY</alpha2>
+      <alpha3>GUY</alpha3>
+      <cc>+592</cc>
+      <cctld>328</cctld>
+      <full>The Co-operative Republic of Guyana</full>
+      <name>Guyana</name>
+    </el>
+    <el>
+      <alpha2>HT</alpha2>
+      <alpha3>HTI</alpha3>
+      <cc>+509</cc>
+      <cctld>332</cctld>
+      <full>The Republic of Haiti</full>
+      <name>Haiti</name>
+    </el>
+    <el>
+      <alpha2>US</alpha2>
+      <alpha3>USA</alpha3>
+      <cc>+1</cc>
+      <cctld>840</cctld>
+      <full>The United States of America</full>
+      <name>Hawaii</name>
+    </el>
+    <el>
+      <alpha2>HM</alpha2>
+      <alpha3>HMD</alpha3>
+      <cc>+61</cc>
+      <cctld>334</cctld>
+      <full>The Territory of Heard Island and McDonald Islands</full>
+      <name>Heard Island and McDonald Islands</name>
+    </el>
+    <el>
+      <alpha2>VA</alpha2>
+      <alpha3>VAT</alpha3>
+      <cc>+379</cc>
+      <cctld>336</cctld>
+      <full>The Holy See</full>
+      <name>Holy See</name>
+    </el>
+    <el>
+      <alpha2>HN</alpha2>
+      <alpha3>HND</alpha3>
+      <cc>+504</cc>
+      <cctld>340</cctld>
+      <full>The Republic of Honduras</full>
+      <name>Honduras</name>
+    </el>
+    <el>
+      <alpha2>HK</alpha2>
+      <alpha3>HKG</alpha3>
+      <cc>+852</cc>
+      <cctld>344</cctld>
+      <full>The Hong Kong Special Administrative Region</full>
+      <name>Hong Kong</name>
+    </el>
+    <el>
+      <alpha2>HU</alpha2>
+      <alpha3>HUN</alpha3>
+      <cc>+36</cc>
+      <cctld>348</cctld>
+      <full>Hungary</full>
+      <name>Hungary</name>
+    </el>
+    <el>
+      <alpha2>IS</alpha2>
+      <alpha3>ISL</alpha3>
+      <cc>+354</cc>
+      <cctld>352</cctld>
+      <full>Iceland</full>
+      <name>Iceland</name>
+    </el>
+    <el>
+      <alpha2>IN</alpha2>
+      <alpha3>IND</alpha3>
+      <cc>+91</cc>
+      <cctld>356</cctld>
+      <full>The Republic of India</full>
+      <name>India</name>
+    </el>
+    <el>
+      <alpha2>ID</alpha2>
+      <alpha3>IDN</alpha3>
+      <cc>+62</cc>
+      <cctld>360</cctld>
+      <full>The Republic of Indonesia</full>
+      <name>Indonesia</name>
+    </el>
+    <el>
+      <alpha2>IR</alpha2>
+      <alpha3>IRN</alpha3>
+      <cc>+98</cc>
+      <cctld>364</cctld>
+      <full>The Islamic Republic of Iran</full>
+      <name>Iran</name>
+    </el>
+    <el>
+      <alpha2>IQ</alpha2>
+      <alpha3>IRQ</alpha3>
+      <cc>+964</cc>
+      <cctld>368</cctld>
+      <full>The Republic of Iraq</full>
+      <name>Iraq</name>
+    </el>
+    <el>
+      <alpha2>IE</alpha2>
+      <alpha3>IRL</alpha3>
+      <cc>+353</cc>
+      <cctld>372</cctld>
+      <full>Ireland</full>
+      <name>Ireland</name>
+    </el>
+    <el>
+      <alpha2>IM</alpha2>
+      <alpha3>IMN</alpha3>
+      <cc>+44</cc>
+      <cctld>833</cctld>
+      <full>The Isle of Man</full>
+      <name>Isle of Man</name>
+    </el>
+    <el>
+      <alpha2>IL</alpha2>
+      <alpha3>ISR</alpha3>
+      <cc>+972</cc>
+      <cctld>376</cctld>
+      <full>The State of Israel</full>
+      <name>Israel</name>
+    </el>
+    <el>
+      <alpha2>IT</alpha2>
+      <alpha3>ITA</alpha3>
+      <cc>+39</cc>
+      <cctld>380</cctld>
+      <full>The Italian Republic</full>
+      <name>Italy</name>
+    </el>
+    <el>
+      <alpha2>CI</alpha2>
+      <alpha3>CIV</alpha3>
+      <cc>+225</cc>
+      <cctld>384</cctld>
+      <full>The Republic of Côte d'Ivoire</full>
+      <name>Ivory Coast</name>
+    </el>
+    <el>
+      <alpha2>JM</alpha2>
+      <alpha3>JAM</alpha3>
+      <cc>+1</cc>
+      <cctld>388</cctld>
+      <full>Jamaica</full>
+      <name>Jamaica</name>
+    </el>
+    <el>
+      <alpha2>SJ</alpha2>
+      <alpha3>SJM</alpha3>
+      <cc>+47</cc>
+      <cctld>744</cctld>
+      <full>Svalbard and Jan Mayen</full>
+      <name>Jan Mayen</name>
+    </el>
+    <el>
+      <alpha2>JP</alpha2>
+      <alpha3>JPN</alpha3>
+      <cc>+81</cc>
+      <cctld>392</cctld>
+      <full>Japan</full>
+      <name>Japan</name>
+    </el>
+    <el>
+      <alpha2>JE</alpha2>
+      <alpha3>JEY</alpha3>
+      <cc>+44</cc>
+      <cctld>832</cctld>
+      <full>The Bailiwick of Jersey</full>
+      <name>Jersey</name>
+    </el>
+    <el>
+      <alpha2>JO</alpha2>
+      <alpha3>JOR</alpha3>
+      <cc>+962</cc>
+      <cctld>400</cctld>
+      <full>The Hashemite Kingdom of Jordan</full>
+      <name>Jordan</name>
+    </el>
+    <el>
+      <alpha2>KZ</alpha2>
+      <alpha3>KAZ</alpha3>
+      <cc>+7</cc>
+      <cctld>398</cctld>
+      <full>The Republic of Kazakhstan</full>
+      <name>Kazakhstan</name>
+    </el>
+    <el>
+      <alpha2>KE</alpha2>
+      <alpha3>KEN</alpha3>
+      <cc>+254</cc>
+      <cctld>404</cctld>
+      <full>The Republic of Kenya</full>
+      <name>Kenya</name>
+    </el>
+    <el>
+      <alpha2>KI</alpha2>
+      <alpha3>KIR</alpha3>
+      <cc>+686</cc>
+      <cctld>296</cctld>
+      <full>The Republic of Kiribati</full>
+      <name>Kiribati</name>
+    </el>
+    <el>
+      <alpha2>KW</alpha2>
+      <alpha3>KWT</alpha3>
+      <cc>+965</cc>
+      <cctld>414</cctld>
+      <full>The State of Kuwait</full>
+      <name>Kuwait</name>
+    </el>
+    <el>
+      <alpha2>KG</alpha2>
+      <alpha3>KGZ</alpha3>
+      <cc>+996</cc>
+      <cctld>417</cctld>
+      <full>The Kyrgyz Republic</full>
+      <name>Kyrgyzstan</name>
+    </el>
+    <el>
+      <alpha2>LA</alpha2>
+      <alpha3>LAO</alpha3>
+      <cc>+856</cc>
+      <cctld>418</cctld>
+      <full>The Lao People's Democratic Republic</full>
+      <name>Laos</name>
+    </el>
+    <el>
+      <alpha2>LV</alpha2>
+      <alpha3>LVA</alpha3>
+      <cc>+371</cc>
+      <cctld>428</cctld>
+      <full>The Republic of Latvia</full>
+      <name>Latvia</name>
+    </el>
+    <el>
+      <alpha2>LB</alpha2>
+      <alpha3>LBN</alpha3>
+      <cc>+961</cc>
+      <cctld>422</cctld>
+      <full>The Lebanese Republic</full>
+      <name>Lebanon</name>
+    </el>
+    <el>
+      <alpha2>LS</alpha2>
+      <alpha3>LSO</alpha3>
+      <cc>+266</cc>
+      <cctld>426</cctld>
+      <full>The Kingdom of Lesotho</full>
+      <name>Lesotho</name>
+    </el>
+    <el>
+      <alpha2>LR</alpha2>
+      <alpha3>LBR</alpha3>
+      <cc>+231</cc>
+      <cctld>430</cctld>
+      <full>The Republic of Liberia</full>
+      <name>Liberia</name>
+    </el>
+    <el>
+      <alpha2>LY</alpha2>
+      <alpha3>LBY</alpha3>
+      <cc>+218</cc>
+      <cctld>434</cctld>
+      <full>The State of Libya</full>
+      <name>Libya</name>
+    </el>
+    <el>
+      <alpha2>LI</alpha2>
+      <alpha3>LIE</alpha3>
+      <cc>+423</cc>
+      <cctld>438</cctld>
+      <full>The Principality of Liechtenstein</full>
+      <name>Liechtenstein</name>
+    </el>
+    <el>
+      <alpha2>LT</alpha2>
+      <alpha3>LTU</alpha3>
+      <cc>+370</cc>
+      <cctld>440</cctld>
+      <full>The Republic of Lithuania</full>
+      <name>Lithuania</name>
+    </el>
+    <el>
+      <alpha2>LU</alpha2>
+      <alpha3>LUX</alpha3>
+      <cc>+352</cc>
+      <cctld>442</cctld>
+      <full>The Grand Duchy of Luxembourg</full>
+      <name>Luxembourg</name>
+    </el>
+    <el>
+      <alpha2>MO</alpha2>
+      <alpha3>MAC</alpha3>
+      <cc>+853</cc>
+      <cctld>446</cctld>
+      <full>The Macau Special Administrative Region</full>
+      <name>Macau</name>
+    </el>
+    <el>
+      <alpha2>MK</alpha2>
+      <alpha3>MKD</alpha3>
+      <cc>+389</cc>
+      <cctld>807</cctld>
+      <full>The Republic of Macedonia</full>
+      <name>Macedonia</name>
+    </el>
+    <el>
+      <alpha2>MG</alpha2>
+      <alpha3>MDG</alpha3>
+      <cc>+261</cc>
+      <cctld>450</cctld>
+      <full>The Republic of Madagascar</full>
+      <name>Madagascar</name>
+    </el>
+    <el>
+      <alpha2>MW</alpha2>
+      <alpha3>MWI</alpha3>
+      <cc>+265</cc>
+      <cctld>454</cctld>
+      <full>The Republic of Malawi</full>
+      <name>Malawi</name>
+    </el>
+    <el>
+      <alpha2>MY</alpha2>
+      <alpha3>MYS</alpha3>
+      <cc>+60</cc>
+      <cctld>458</cctld>
+      <full>Malaysia</full>
+      <name>Malaysia</name>
+    </el>
+    <el>
+      <alpha2>MV</alpha2>
+      <alpha3>MDV</alpha3>
+      <cc>+960</cc>
+      <cctld>462</cctld>
+      <full>The Republic of Maldives</full>
+      <name>Maldives</name>
+    </el>
+    <el>
+      <alpha2>ML</alpha2>
+      <alpha3>MLI</alpha3>
+      <cc>+223</cc>
+      <cctld>466</cctld>
+      <full>The Republic of Mali</full>
+      <name>Mali</name>
+    </el>
+    <el>
+      <alpha2>MT</alpha2>
+      <alpha3>MLT</alpha3>
+      <cc>+356</cc>
+      <cctld>470</cctld>
+      <full>The Republic of Malta</full>
+      <name>Malta</name>
+    </el>
+    <el>
+      <alpha2>MH</alpha2>
+      <alpha3>MHL</alpha3>
+      <cc>+692</cc>
+      <cctld>584</cctld>
+      <full>The Republic of the Marshall Islands</full>
+      <name>Marshall Islands</name>
+    </el>
+    <el>
+      <alpha2>MQ</alpha2>
+      <alpha3>MTQ</alpha3>
+      <cc>+596</cc>
+      <cctld>474</cctld>
+      <full>Martinique</full>
+      <name>Martinique</name>
+    </el>
+    <el>
+      <alpha2>MR</alpha2>
+      <alpha3>MRT</alpha3>
+      <cc>+222</cc>
+      <cctld>478</cctld>
+      <full>The Islamic Republic of Mauritania</full>
+      <name>Mauritania</name>
+    </el>
+    <el>
+      <alpha2>MU</alpha2>
+      <alpha3>MUS</alpha3>
+      <cc>+230</cc>
+      <cctld>480</cctld>
+      <full>The Republic of Mauritius</full>
+      <name>Mauritius</name>
+    </el>
+    <el>
+      <alpha2>YT</alpha2>
+      <alpha3>MYT</alpha3>
+      <cc>+262</cc>
+      <cctld>175</cctld>
+      <full>The Department of Mayotte</full>
+      <name>Mayotte</name>
+    </el>
+    <el>
+      <alpha2>MX</alpha2>
+      <alpha3>MEX</alpha3>
+      <cc>+52</cc>
+      <cctld>484</cctld>
+      <full>The United Mexican States</full>
+      <name>Mexico</name>
+    </el>
+    <el>
+      <alpha2>FM</alpha2>
+      <alpha3>FSM</alpha3>
+      <cc>+691</cc>
+      <cctld>583</cctld>
+      <full>The Federated States of Micronesia</full>
+      <name>Micronesia</name>
+    </el>
+    <el>
+      <alpha2>MD</alpha2>
+      <alpha3>MDA</alpha3>
+      <cc>+373</cc>
+      <cctld>498</cctld>
+      <full>The Republic of Moldova</full>
+      <name>Moldova</name>
+    </el>
+    <el>
+      <alpha2>MC</alpha2>
+      <alpha3>MCO</alpha3>
+      <cc>+377</cc>
+      <cctld>492</cctld>
+      <full>The Principality of Monaco</full>
+      <name>Monaco</name>
+    </el>
+    <el>
+      <alpha2>MN</alpha2>
+      <alpha3>MNG</alpha3>
+      <cc>+976</cc>
+      <cctld>496</cctld>
+      <full>The State of Mongolia</full>
+      <name>Mongolia</name>
+    </el>
+    <el>
+      <alpha2>ME</alpha2>
+      <alpha3>MNE</alpha3>
+      <cc>+382</cc>
+      <cctld>499</cctld>
+      <full>Montenegro</full>
+      <name>Montenegro</name>
+    </el>
+    <el>
+      <alpha2>MS</alpha2>
+      <alpha3>MSR</alpha3>
+      <cc>+1</cc>
+      <cctld>500</cctld>
+      <full>Montserrat</full>
+      <name>Montserrat</name>
+    </el>
+    <el>
+      <alpha2>MA</alpha2>
+      <alpha3>MAR</alpha3>
+      <cc>+212</cc>
+      <cctld>504</cctld>
+      <full>The Kingdom of Morocco</full>
+      <name>Morocco</name>
+    </el>
+    <el>
+      <alpha2>MZ</alpha2>
+      <alpha3>MOZ</alpha3>
+      <cc>+258</cc>
+      <cctld>508</cctld>
+      <full>The Republic of Mozambique</full>
+      <name>Mozambique</name>
+    </el>
+    <el>
+      <alpha2>MM</alpha2>
+      <alpha3>MMR</alpha3>
+      <cc>+95</cc>
+      <cctld>104</cctld>
+      <full>The Republic of the Union of Myanmar</full>
+      <name>Myanmar</name>
+    </el>
+    <el>
+      <alpha2>NA</alpha2>
+      <alpha3>NAM</alpha3>
+      <cc>+264</cc>
+      <cctld>516</cctld>
+      <full>The Republic of Namibia</full>
+      <name>Namibia</name>
+    </el>
+    <el>
+      <alpha2>NR</alpha2>
+      <alpha3>NRU</alpha3>
+      <cc>+674</cc>
+      <cctld>520</cctld>
+      <full>The Republic of Nauru</full>
+      <name>Nauru</name>
+    </el>
+    <el>
+      <alpha2>NP</alpha2>
+      <alpha3>NPL</alpha3>
+      <cc>+977</cc>
+      <cctld>524</cctld>
+      <full>The Federal Democratic Republic of Nepal</full>
+      <name>Nepal</name>
+    </el>
+    <el>
+      <alpha2>NL</alpha2>
+      <alpha3>NLD</alpha3>
+      <cc>+31</cc>
+      <cctld>528</cctld>
+      <full>The Kingdom of the Netherlands</full>
+      <name>Netherlands</name>
+    </el>
+    <el>
+      <alpha2>NC</alpha2>
+      <alpha3>NCL</alpha3>
+      <cc>+687</cc>
+      <cctld>540</cctld>
+      <full>New Caledonia</full>
+      <name>New Caledonia</name>
+    </el>
+    <el>
+      <alpha2>NZ</alpha2>
+      <alpha3>NZL</alpha3>
+      <cc>+64</cc>
+      <cctld>554</cctld>
+      <full>New Zealand</full>
+      <name>New Zealand</name>
+    </el>
+    <el>
+      <alpha2>NI</alpha2>
+      <alpha3>NIC</alpha3>
+      <cc>+505</cc>
+      <cctld>558</cctld>
+      <full>The Republic of Nicaragua</full>
+      <name>Nicaragua</name>
+    </el>
+    <el>
+      <alpha2>NE</alpha2>
+      <alpha3>NER</alpha3>
+      <cc>+227</cc>
+      <cctld>562</cctld>
+      <full>The Republic of the Niger</full>
+      <name>Niger</name>
+    </el>
+    <el>
+      <alpha2>NG</alpha2>
+      <alpha3>NGA</alpha3>
+      <cc>+234</cc>
+      <cctld>566</cctld>
+      <full>The Federal Republic of Nigeria</full>
+      <name>Nigeria</name>
+    </el>
+    <el>
+      <alpha2>NU</alpha2>
+      <alpha3>NIU</alpha3>
+      <cc>+683</cc>
+      <cctld>570</cctld>
+      <full>Niue</full>
+      <name>Niue</name>
+    </el>
+    <el>
+      <alpha2>NF</alpha2>
+      <alpha3>NFK</alpha3>
+      <cc>+672</cc>
+      <cctld>574</cctld>
+      <full>The Territory of Norfolk Island</full>
+      <name>Norfolk Island</name>
+    </el>
+    <el>
+      <alpha2>KP</alpha2>
+      <alpha3>PRK</alpha3>
+      <cc>+850</cc>
+      <cctld>408</cctld>
+      <full>The Democratic People's Republic of Korea</full>
+      <name>North Korea</name>
+    </el>
+    <el>
+      <alpha2>GB</alpha2>
+      <alpha3>GBR</alpha3>
+      <cc>+44</cc>
+      <cctld>826</cctld>
+      <full>The United Kingdom of Great Britain and Northern Ireland</full>
+      <name>Northern Ireland</name>
+    </el>
+    <el>
+      <alpha2>MP</alpha2>
+      <alpha3>MNP</alpha3>
+      <cc>+1</cc>
+      <cctld>580</cctld>
+      <full>The Commonwealth of the Northern Mariana Islands</full>
+      <name>Northern Mariana Islands</name>
+    </el>
+    <el>
+      <alpha2>NO</alpha2>
+      <alpha3>NOR</alpha3>
+      <cc>+47</cc>
+      <cctld>578</cctld>
+      <full>The Kingdom of Norway</full>
+      <name>Norway</name>
+    </el>
+    <el>
+      <alpha2>OM</alpha2>
+      <alpha3>OMN</alpha3>
+      <cc>+968</cc>
+      <cctld>512</cctld>
+      <full>The Sultanate of Oman</full>
+      <name>Oman</name>
+    </el>
+    <el>
+      <alpha2>PK</alpha2>
+      <alpha3>PAK</alpha3>
+      <cc>+92</cc>
+      <cctld>586</cctld>
+      <full>The Islamic Republic of Pakistan</full>
+      <name>Pakistan</name>
+    </el>
+    <el>
+      <alpha2>PW</alpha2>
+      <alpha3>PLW</alpha3>
+      <cc>+680</cc>
+      <cctld>585</cctld>
+      <full>The Republic of Palau</full>
+      <name>Palau</name>
+    </el>
+    <el>
+      <alpha2>PS</alpha2>
+      <alpha3>PSE</alpha3>
+      <cc>+970 / +972</cc>
+      <cctld>275</cctld>
+      <full>The State of Palestine</full>
+      <name>Palestine, State of</name>
+    </el>
+    <el>
+      <alpha2>PA</alpha2>
+      <alpha3>PAN</alpha3>
+      <cc>+507</cc>
+      <cctld>591</cctld>
+      <full>The Republic of Panamá</full>
+      <name>Panama</name>
+    </el>
+    <el>
+      <alpha2>PG</alpha2>
+      <alpha3>PNG</alpha3>
+      <cc>+675</cc>
+      <cctld>598</cctld>
+      <full>The Independent State of Papua New Guinea</full>
+      <name>Papua New Guinea</name>
+    </el>
+    <el>
+      <alpha2>PY</alpha2>
+      <alpha3>PRY</alpha3>
+      <cc>+595</cc>
+      <cctld>600</cctld>
+      <full>The Republic of Paraguay</full>
+      <name>Paraguay</name>
+    </el>
+    <el>
+      <alpha2>TW</alpha2>
+      <alpha3>TWN</alpha3>
+      <cc>+86</cc>
+      <cctld>158</cctld>
+      <full>The Republic of China</full>
+      <name>People's Republic of China</name>
+    </el>
+    <el>
+      <alpha2>PE</alpha2>
+      <alpha3>PER</alpha3>
+      <cc>+51</cc>
+      <cctld>604</cctld>
+      <full>The Republic of Perú</full>
+      <name>Peru</name>
+    </el>
+    <el>
+      <alpha2>PH</alpha2>
+      <alpha3>PHL</alpha3>
+      <cc>+63</cc>
+      <cctld>608</cctld>
+      <full>The Republic of the Philippines</full>
+      <name>Philippines</name>
+    </el>
+    <el>
+      <alpha2>PN</alpha2>
+      <alpha3>PCN</alpha3>
+      <cc>+64</cc>
+      <cctld>612</cctld>
+      <full>The Pitcairn, Henderson, Ducie and Oeno Islands</full>
+      <name>Pitcairn Islands</name>
+    </el>
+    <el>
+      <alpha2>PL</alpha2>
+      <alpha3>POL</alpha3>
+      <cc>+48</cc>
+      <cctld>616</cctld>
+      <full>The Republic of Poland</full>
+      <name>Poland</name>
+    </el>
+    <el>
+      <alpha2>PT</alpha2>
+      <alpha3>PRT</alpha3>
+      <cc>+351</cc>
+      <cctld>620</cctld>
+      <full>The Portuguese Republic</full>
+      <name>Portugal</name>
+    </el>
+    <el>
+      <alpha2>PR</alpha2>
+      <alpha3>PRI</alpha3>
+      <cc>+1</cc>
+      <cctld>630</cctld>
+      <full>The Commonwealth of Puerto Rico</full>
+      <name>Puerto Rico</name>
+    </el>
+    <el>
+      <alpha2>QA</alpha2>
+      <alpha3>QAT</alpha3>
+      <cc>+974</cc>
+      <cctld>634</cctld>
+      <full>The State of Qatar</full>
+      <name>Qatar</name>
+    </el>
+    <el>
+      <alpha2>RE</alpha2>
+      <alpha3>REU</alpha3>
+      <cc>+262</cc>
+      <cctld>638</cctld>
+      <full>Réunion</full>
+      <name>Réunion</name>
+    </el>
+    <el>
+      <alpha2>RO</alpha2>
+      <alpha3>ROU</alpha3>
+      <cc>+40</cc>
+      <cctld>642</cctld>
+      <full>Romania</full>
+      <name>Romania</name>
+    </el>
+    <el>
+      <alpha2>RU</alpha2>
+      <alpha3>RUS</alpha3>
+      <cc>+7</cc>
+      <cctld>643</cctld>
+      <full>The Russian Federation</full>
+      <name>Russia</name>
+    </el>
+    <el>
+      <alpha2>RW</alpha2>
+      <alpha3>RWA</alpha3>
+      <cc>+250</cc>
+      <cctld>646</cctld>
+      <full>The Republic of Rwanda</full>
+      <name>Rwanda</name>
+    </el>
+    <el>
+      <alpha2>BQ</alpha2>
+      <alpha3>BES</alpha3>
+      <cc>+599</cc>
+      <cctld>535</cctld>
+      <full>Bonaire, Sint Eustatius and Saba</full>
+      <name>Saba</name>
+    </el>
+    <el>
+      <alpha2>EH</alpha2>
+      <alpha3>ESH</alpha3>
+      <cc>+212</cc>
+      <cctld>732</cctld>
+      <full>The Sahrawi Arab Democratic Republic</full>
+      <name>Sahrawi Arab Democratic Republic</name>
+    </el>
+    <el>
+      <alpha2>BL</alpha2>
+      <alpha3>BLM</alpha3>
+      <cc>+590</cc>
+      <cctld>652</cctld>
+      <full>The Collectivity of Saint-Barthélemy</full>
+      <name>Saint Barthélemy</name>
+    </el>
+    <el>
+      <alpha2>SH</alpha2>
+      <alpha3>SHN</alpha3>
+      <cc>+290</cc>
+      <cctld>654</cctld>
+      <full>Saint Helena, Ascension and Tristan da Cunha</full>
+      <name>Saint Helena, Ascension and Tristan da Cunha</name>
+    </el>
+    <el>
+      <alpha2>KN</alpha2>
+      <alpha3>KNA</alpha3>
+      <cc>+1</cc>
+      <cctld>659</cctld>
+      <full>Saint Kitts and Nevis</full>
+      <name>Saint Kitts and Nevis</name>
+    </el>
+    <el>
+      <alpha2>LC</alpha2>
+      <alpha3>LCA</alpha3>
+      <cc>+1</cc>
+      <cctld>662</cctld>
+      <full>Saint Lucia</full>
+      <name>Saint Lucia</name>
+    </el>
+    <el>
+      <alpha2>MF</alpha2>
+      <alpha3>MAF</alpha3>
+      <cc>+590</cc>
+      <cctld>663</cctld>
+      <full>The Collectivity of Saint-Martin</full>
+      <name>Saint Martin</name>
+    </el>
+    <el>
+      <alpha2>PM</alpha2>
+      <alpha3>SPM</alpha3>
+      <cc>+508</cc>
+      <cctld>666</cctld>
+      <full>The Overseas Collectivity of Saint-Pierre and Miquelon</full>
+      <name>Saint Pierre and Miquelon</name>
+    </el>
+    <el>
+      <alpha2>VC</alpha2>
+      <alpha3>VCT</alpha3>
+      <cc>+1</cc>
+      <cctld>670</cctld>
+      <full>Saint Vincent and the Grenadines</full>
+      <name>Saint Vincent and the Grenadines</name>
+    </el>
+    <el>
+      <alpha2>WS</alpha2>
+      <alpha3>WSM</alpha3>
+      <cc>+685</cc>
+      <cctld>882</cctld>
+      <full>The Independent State of Samoa</full>
+      <name>Samoa</name>
+    </el>
+    <el>
+      <alpha2>SM</alpha2>
+      <alpha3>SMR</alpha3>
+      <cc>+378</cc>
+      <cctld>674</cctld>
+      <full>The Republic of San Marino</full>
+      <name>San Marino</name>
+    </el>
+    <el>
+      <alpha2>ST</alpha2>
+      <alpha3>STP</alpha3>
+      <cc>+239</cc>
+      <cctld>678</cctld>
+      <full>The Democratic Republic of São Tomé and Príncipe</full>
+      <name>São Tomé and Príncipe</name>
+    </el>
+    <el>
+      <alpha2>SA</alpha2>
+      <alpha3>SAU</alpha3>
+      <cc>+966</cc>
+      <cctld>682</cctld>
+      <full>The Kingdom of Saudi Arabia</full>
+      <name>Saudi Arabia</name>
+    </el>
+    <el>
+      <alpha2>GB</alpha2>
+      <alpha3>GBR</alpha3>
+      <cc>+44</cc>
+      <cctld>826</cctld>
+      <full>The United Kingdom of Great Britain and Northern Ireland</full>
+      <name>Scotland</name>
+    </el>
+    <el>
+      <alpha2>SN</alpha2>
+      <alpha3>SEN</alpha3>
+      <cc>+221</cc>
+      <cctld>686</cctld>
+      <full>The Republic of Senegal</full>
+      <name>Senegal</name>
+    </el>
+    <el>
+      <alpha2>RS</alpha2>
+      <alpha3>SRB</alpha3>
+      <cc>+381</cc>
+      <cctld>688</cctld>
+      <full>The Republic of Serbia</full>
+      <name>Serbia</name>
+    </el>
+    <el>
+      <alpha2>SC</alpha2>
+      <alpha3>SYC</alpha3>
+      <cc>+248</cc>
+      <cctld>690</cctld>
+      <full>The Republic of Seychelles</full>
+      <name>Seychelles</name>
+    </el>
+    <el>
+      <alpha2>SL</alpha2>
+      <alpha3>SLE</alpha3>
+      <cc>+232</cc>
+      <cctld>694</cctld>
+      <full>The Republic of Sierra Leone</full>
+      <name>Sierra Leone</name>
+    </el>
+    <el>
+      <alpha2>SG</alpha2>
+      <alpha3>SGP</alpha3>
+      <cc>+65</cc>
+      <cctld>702</cctld>
+      <full>The Republic of Singapore</full>
+      <name>Singapore</name>
+    </el>
+    <el>
+      <alpha2>BQ</alpha2>
+      <alpha3>BES</alpha3>
+      <cc>+599</cc>
+      <cctld>535</cctld>
+      <full>Bonaire, Sint Eustatius and Saba</full>
+      <name>Sint Eustatius</name>
+    </el>
+    <el>
+      <alpha2>SX</alpha2>
+      <alpha3>SXM</alpha3>
+      <cc>+1</cc>
+      <cctld>534</cctld>
+      <full>Sint Maarten</full>
+      <name>Sint Maarten</name>
+    </el>
+    <el>
+      <alpha2>SK</alpha2>
+      <alpha3>SVK</alpha3>
+      <cc>+421</cc>
+      <cctld>703</cctld>
+      <full>The Slovak Republic</full>
+      <name>Slovakia</name>
+    </el>
+    <el>
+      <alpha2>SI</alpha2>
+      <alpha3>SVN</alpha3>
+      <cc>+386</cc>
+      <cctld>705</cctld>
+      <full>The Republic of Slovenia</full>
+      <name>Slovenia</name>
+    </el>
+    <el>
+      <alpha2>SB</alpha2>
+      <alpha3>SLB</alpha3>
+      <cc>+677</cc>
+      <cctld>090</cctld>
+      <full>The Solomon Islands</full>
+      <name>Solomon Islands</name>
+    </el>
+    <el>
+      <alpha2>SO</alpha2>
+      <alpha3>SOM</alpha3>
+      <cc>+252</cc>
+      <cctld>706</cctld>
+      <full>The Federal Republic of Somalia</full>
+      <name>Somalia</name>
+    </el>
+    <el>
+      <alpha2>ZA</alpha2>
+      <alpha3>ZAF</alpha3>
+      <cc>+27</cc>
+      <cctld>710</cctld>
+      <full>The Republic of South Africa</full>
+      <name>South Africa</name>
+    </el>
+    <el>
+      <alpha2>GS</alpha2>
+      <alpha3>SGS</alpha3>
+      <cc>+500</cc>
+      <cctld>239</cctld>
+      <full>South Georgia and the South Sandwich Islands</full>
+      <name>South Georgia and the South Sandwich Islands</name>
+    </el>
+    <el>
+      <alpha2>KR</alpha2>
+      <alpha3>KOR</alpha3>
+      <cc>+82</cc>
+      <cctld>410</cctld>
+      <full>The Republic of Korea</full>
+      <name>South Korea</name>
+    </el>
+    <el>
+      <alpha2>KR</alpha2>
+      <alpha3>KOR</alpha3>
+      <cc>+82</cc>
+      <cctld>410</cctld>
+      <full>The Republic of Korea</full>
+      <name>South Korea</name>
+    </el>
+    <el>
+      <alpha2>SS</alpha2>
+      <alpha3>SSD</alpha3>
+      <cc>+211</cc>
+      <cctld>728</cctld>
+      <full>The Republic of South Sudan</full>
+      <name>South Sudan</name>
+    </el>
+    <el>
+      <alpha2>ES</alpha2>
+      <alpha3>ESP</alpha3>
+      <cc>+34</cc>
+      <cctld>724</cctld>
+      <full>The Kingdom of Spain</full>
+      <name>Spain</name>
+    </el>
+    <el>
+      <alpha2>LK</alpha2>
+      <alpha3>LKA</alpha3>
+      <cc>+94</cc>
+      <cctld>144</cctld>
+      <full>The Democratic Socialist Republic of Sri Lanka</full>
+      <name>Sri Lanka</name>
+    </el>
+    <el>
+      <alpha2>SD</alpha2>
+      <alpha3>SDN</alpha3>
+      <cc>+249</cc>
+      <cctld>729</cctld>
+      <full>The Republic of the Sudan</full>
+      <name>Sudan</name>
+    </el>
+    <el>
+      <alpha2>SR</alpha2>
+      <alpha3>SUR</alpha3>
+      <cc>+597</cc>
+      <cctld>740</cctld>
+      <full>The Republic of Suriname</full>
+      <name>Suriname</name>
+    </el>
+    <el>
+      <alpha2>SJ</alpha2>
+      <alpha3>SJM</alpha3>
+      <cc>+47</cc>
+      <cctld>744</cctld>
+      <full>Svalbard and Jan Mayen</full>
+      <name>Svalbard</name>
+    </el>
+    <el>
+      <alpha2>SZ</alpha2>
+      <alpha3>SWZ</alpha3>
+      <cc>+268</cc>
+      <cctld>748</cctld>
+      <full>The Kingdom of Eswatini</full>
+      <name>Swaziland</name>
+    </el>
+    <el>
+      <alpha2>SE</alpha2>
+      <alpha3>SWE</alpha3>
+      <cc>+46</cc>
+      <cctld>752</cctld>
+      <full>The Kingdom of Sweden</full>
+      <name>Sweden</name>
+    </el>
+    <el>
+      <alpha2>CH</alpha2>
+      <alpha3>CHE</alpha3>
+      <cc>+41</cc>
+      <cctld>756</cctld>
+      <full>The Swiss Confederation</full>
+      <name>Switzerland</name>
+    </el>
+    <el>
+      <alpha2>SY</alpha2>
+      <alpha3>SYR</alpha3>
+      <cc>+963</cc>
+      <cctld>760</cctld>
+      <full>The Syrian Arab Republic</full>
+      <name>Syria</name>
+    </el>
+    <el>
+      <alpha2>TW</alpha2>
+      <alpha3>TWN</alpha3>
+      <cc>+886</cc>
+      <cctld>158</cctld>
+      <full>The Republic of China</full>
+      <name>Taiwan</name>
+    </el>
+    <el>
+      <alpha2>TW</alpha2>
+      <alpha3>TWN</alpha3>
+      <cc>+886</cc>
+      <cctld>158</cctld>
+      <full>The Republic of China</full>
+      <name>Taiwan</name>
+    </el>
+    <el>
+      <alpha2>TJ</alpha2>
+      <alpha3>TJK</alpha3>
+      <cc>+992</cc>
+      <cctld>762</cctld>
+      <full>The Republic of Tajikistan</full>
+      <name>Tajikistan</name>
+    </el>
+    <el>
+      <alpha2>TZ</alpha2>
+      <alpha3>TZA</alpha3>
+      <cc>+255</cc>
+      <cctld>834</cctld>
+      <full>The United Republic of Tanzania</full>
+      <name>Tanzania</name>
+    </el>
+    <el>
+      <alpha2>TH</alpha2>
+      <alpha3>THA</alpha3>
+      <cc>+66</cc>
+      <cctld>764</cctld>
+      <full>The Kingdom of Thailand</full>
+      <name>Thailand</name>
+    </el>
+    <el>
+      <alpha2>TL</alpha2>
+      <alpha3>TLS</alpha3>
+      <cc>+670</cc>
+      <cctld>626</cctld>
+      <full>The Democratic Republic of Timor-Leste</full>
+      <name>Timor-Leste</name>
+    </el>
+    <el>
+      <alpha2>TG</alpha2>
+      <alpha3>TGO</alpha3>
+      <cc>+228</cc>
+      <cctld>768</cctld>
+      <full>The Togolese Republic</full>
+      <name>Togo</name>
+    </el>
+    <el>
+      <alpha2>TK</alpha2>
+      <alpha3>TKL</alpha3>
+      <cc>+690</cc>
+      <cctld>772</cctld>
+      <full>Tokelau</full>
+      <name>Tokelau</name>
+    </el>
+    <el>
+      <alpha2>TO</alpha2>
+      <alpha3>TON</alpha3>
+      <cc>+676</cc>
+      <cctld>776</cctld>
+      <full>The Kingdom of Tonga</full>
+      <name>Tonga</name>
+    </el>
+    <el>
+      <alpha2>TT</alpha2>
+      <alpha3>TTO</alpha3>
+      <cc>+1</cc>
+      <cctld>780</cctld>
+      <full>The Republic of Trinidad and Tobago</full>
+      <name>Trinidad and Tobago</name>
+    </el>
+    <el>
+      <alpha2>TN</alpha2>
+      <alpha3>TUN</alpha3>
+      <cc>+216</cc>
+      <cctld>788</cctld>
+      <full>The Republic of Tunisia</full>
+      <name>Tunisia</name>
+    </el>
+    <el>
+      <alpha2>TR</alpha2>
+      <alpha3>TUR</alpha3>
+      <cc>+90</cc>
+      <cctld>792</cctld>
+      <full>The Republic of Turkey</full>
+      <name>Turkey</name>
+    </el>
+    <el>
+      <alpha2>TM</alpha2>
+      <alpha3>TKM</alpha3>
+      <cc>+993</cc>
+      <cctld>795</cctld>
+      <full>Turkmenistan</full>
+      <name>Turkmenistan</name>
+    </el>
+    <el>
+      <alpha2>TC</alpha2>
+      <alpha3>TCA</alpha3>
+      <cc>+1</cc>
+      <cctld>796</cctld>
+      <full>The Turks and Caicos Islands</full>
+      <name>Turks and Caicos Islands</name>
+    </el>
+    <el>
+      <alpha2>TV</alpha2>
+      <alpha3>TUV</alpha3>
+      <cc>+688</cc>
+      <cctld>798</cctld>
+      <full>Tuvalu</full>
+      <name>Tuvalu</name>
+    </el>
+    <el>
+      <alpha2>UG</alpha2>
+      <alpha3>UGA</alpha3>
+      <cc>+256</cc>
+      <cctld>800</cctld>
+      <full>The Republic of Uganda</full>
+      <name>Uganda</name>
+    </el>
+    <el>
+      <alpha2>UA</alpha2>
+      <alpha3>UKR</alpha3>
+      <cc>+380</cc>
+      <cctld>804</cctld>
+      <full>Ukraine</full>
+      <name>Ukraine</name>
+    </el>
+    <el>
+      <alpha2>AE</alpha2>
+      <alpha3>ARE</alpha3>
+      <cc>+971</cc>
+      <cctld>784</cctld>
+      <full>The United Arab Emirates</full>
+      <name>United Arab Emirates</name>
+    </el>
+    <el>
+      <alpha2>GB</alpha2>
+      <alpha3>GBR</alpha3>
+      <cc>+44</cc>
+      <cctld>826</cctld>
+      <full>The United Kingdom of Great Britain and Northern Ireland</full>
+      <name>United Kingdom</name>
+    </el>
+    <el>
+      <alpha2>UM</alpha2>
+      <alpha3>UMI</alpha3>
+      <cc>+1</cc>
+      <cctld>581</cctld>
+      <full>Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island</full>
+      <name>United States Minor Outlying Islands</name>
+    </el>
+    <el>
+      <alpha2>US</alpha2>
+      <alpha3>USA</alpha3>
+      <cc>+1</cc>
+      <cctld>840</cctld>
+      <full>The United States of America</full>
+      <name>United States of America</name>
+    </el>
+    <el>
+      <alpha2>VI</alpha2>
+      <alpha3>VIR</alpha3>
+      <cc>+1</cc>
+      <cctld>850</cctld>
+      <full>The Virgin Islands of the United States</full>
+      <name>United States Virgin Islands</name>
+    </el>
+    <el>
+      <alpha2>UY</alpha2>
+      <alpha3>URY</alpha3>
+      <cc>+598</cc>
+      <cctld>858</cctld>
+      <full>The Oriental Republic of Uruguay</full>
+      <name>Uruguay</name>
+    </el>
+    <el>
+      <alpha2>UZ</alpha2>
+      <alpha3>UZB</alpha3>
+      <cc>+998</cc>
+      <cctld>860</cctld>
+      <full>The Republic of Uzbekistan</full>
+      <name>Uzbekistan</name>
+    </el>
+    <el>
+      <alpha2>VU</alpha2>
+      <alpha3>VUT</alpha3>
+      <cc>+678</cc>
+      <cctld>548</cctld>
+      <full>The Republic of Vanuatu</full>
+      <name>Vanuatu</name>
+    </el>
+    <el>
+      <alpha2>VA</alpha2>
+      <alpha3>VAT</alpha3>
+      <cc>+379</cc>
+      <cctld>336</cctld>
+      <full>The Holy See</full>
+      <name>Vatican City</name>
+    </el>
+    <el>
+      <alpha2>VE</alpha2>
+      <alpha3>VEN</alpha3>
+      <cc>+58</cc>
+      <cctld>862</cctld>
+      <full>The Bolivarian Republic of Venezuela</full>
+      <name>Venezuela</name>
+    </el>
+    <el>
+      <alpha2>VN</alpha2>
+      <alpha3>VNM</alpha3>
+      <cc>+84</cc>
+      <cctld>704</cctld>
+      <full>The Socialist Republic of Viet Nam</full>
+      <name>Vietnam</name>
+    </el>
+    <el>
+      <alpha2>GB</alpha2>
+      <alpha3>GBR</alpha3>
+      <cc>+44</cc>
+      <cctld>826</cctld>
+      <full>The United Kingdom of Great Britain and Northern Ireland</full>
+      <name>Wales</name>
+    </el>
+    <el>
+      <alpha2>WF</alpha2>
+      <alpha3>WLF</alpha3>
+      <cc>+681</cc>
+      <cctld>876</cctld>
+      <full>The Territory of the Wallis and Futuna Islands</full>
+      <name>Wallis and Futuna</name>
+    </el>
+    <el>
+      <alpha2>EH</alpha2>
+      <alpha3>ESH</alpha3>
+      <cc>+212</cc>
+      <cctld>732</cctld>
+      <full>The Sahrawi Arab Democratic Republic</full>
+      <name>Western Sahara</name>
+    </el>
+    <el>
+      <alpha2>YE</alpha2>
+      <alpha3>YEM</alpha3>
+      <cc>+967</cc>
+      <cctld>887</cctld>
+      <full>The Republic of Yemen</full>
+      <name>Yemen</name>
+    </el>
+    <el>
+      <alpha2>ZM</alpha2>
+      <alpha3>ZMB</alpha3>
+      <cc>+260</cc>
+      <cctld>894</cctld>
+      <full>The Republic of Zambia</full>
+      <name>Zambia</name>
+    </el>
+  </data>
+</root>
