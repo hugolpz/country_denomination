@@ -49,3 +49,6 @@ function retrieve_country_info(param) {
 let test = retrieve_contry_info({ what:"cc", with:"alpha3", val:"FRA"});
 console.log(test); // outputs "+33", phone dial for France, YAY!
 ```
+
+## Licence
+- Public Domaine
